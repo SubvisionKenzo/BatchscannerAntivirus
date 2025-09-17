@@ -5,4 +5,6 @@ Ce programme et gratuit et open source !
 ![Licence: CC BY-NC 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC%204.0-lightgrey)
 Lien licence : https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
+STAT : Coming soon
+
 SubvisionKenzo (c) Copyright 2025
