@@ -8,3 +8,9 @@ Lien licence : https://creativecommons.org/licenses/by-nc/4.0/legalcode
 STAT : Coming soon
 
 SubvisionKenzo (c) Copyright 2025
+
+Capture d'ecran du projet :
+
+![Menu](./scrennshot1.png)
+![GestionnaireApplication](./scrennshot2.png)
+![Scan de fichier](./scrennshot3.png)
