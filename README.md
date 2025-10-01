@@ -13,4 +13,3 @@ Capture d'ecran du projet :
 
 ![Menu](./scrennshot1.png)
 ![GestionnaireApplication](./scrennshot2.png)
-![Scan de fichier](./scrennshot3.png)
