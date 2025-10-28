@@ -11,5 +11,9 @@ SubvisionKenzo (c) Copyright 2025
 
 Capture d'ecran du projet :
 
-![Menu](./scrennshot1.png)
-![GestionnaireApplication](./scrennshot2.png)
+![Menu](./screenshot/menu.png)
+![GestionnaireApplication](./screenshot/gestionaire.png)
+![VPN](./screenshot/vpn.png)
+![Scan](./screenshot/scan.png)
+![Recovery Menu](./screenshot/recovery.png)
+![Rapport des virus](./screenshot/rapport.png)
