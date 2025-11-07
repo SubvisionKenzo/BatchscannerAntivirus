@@ -17,4 +17,3 @@ Capture d'ecran du projet :
 ![Scan](./screenshot/scan.png)
 ![Recovery Menu](./screenshot/recovery.png)
 ![Rapport des virus](./screenshot/screenshot/rapport.png)
-d8333cf427eb3318ff6ab755eb1dd9d433f0e2ae43745312c1cd23e83ca1ce51
