@@ -15,5 +15,5 @@ Capture d'ecran du projet :
 ![GestionnaireApplication](./screenshot/gestionaire.png)
 ![VPN](./screenshot/vpn.png)
 ![Scan](./screenshot/scan.png)
-![Recovery Menu](./screenshot/recovery.png)
-![Rapport des virus](./screenshot/screenshot/rapport.png)
+![Recovery Menu](./screenshot/recoveryimg.png)
+![Rapport des virus](./screenshot/rapport.png)
