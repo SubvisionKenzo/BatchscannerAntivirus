@@ -17,3 +17,10 @@ Capture d'ecran du projet :
 ![Scan](./screenshot/scan.png)
 ![Recovery Menu](./screenshot/Recoveryimg.png)
 ![Rapport des virus](./screenshot/rapport.png)
+
+Windows 7 :
+
+![Windows 7](./screenshot/Capture.PNG)
+![Windows 7](./screenshot/Capture2.PNG)
+![Windows 7](./screenshot/Capture3.PNG)
+![Windows 7](./screenshot/Capture4.PNG)
